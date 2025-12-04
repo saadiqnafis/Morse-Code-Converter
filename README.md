@@ -38,3 +38,7 @@ Once the project is created:
 1. Open the generated .xpr file in Vivado (created by the script)
 2. Run synthesis and implementation as needed
 3. (Optional) Add simulation sources and run behavioral/simulation tests
+
+## Here's a demo of the converter
+https://github.com/user-attachments/assets/760fba40-2075-4981-8926-7fe13720f641
+
